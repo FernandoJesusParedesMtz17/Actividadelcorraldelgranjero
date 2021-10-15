@@ -1,14 +1,14 @@
 %Octave.script  
 % Title               :El corral del granero
 % Description         :Encontrar la dimension del corral a construir
-% Author              :Fernando Jes˙s Paredes MartÌnez,
-% Date                :20213010,
+% Author              :Fernando Jes√∫s Paredes Mart√≠nez,Adrian Lovera Bombela
+% Date                :20213010,202123498
 % Version             :1
 % Usage               :octave> /path/Actividad/Elcorraldelgranjero
 
 clear
 
-%Dimensiones del corral con ·rea m·xima 
+%Dimensiones del corral con √°rea m√°xima 
 pkg load symbolic
 syms x y
 
@@ -16,7 +16,7 @@ syms x y
 x=[0 : 1 : 60];
 y=[0 : 1 : 40];
 
-%FunciÛn a plotear para obtener el ·rea m·xima  
+%Funci√≥n a plotear para obtener el √°rea m√°xima  
 a=(480 * x / 3 - 8 * x.^2 / 3)
 
 %Funcion a plotear

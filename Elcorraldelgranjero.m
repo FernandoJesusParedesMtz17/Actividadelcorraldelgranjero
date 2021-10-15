@@ -1,8 +1,8 @@
 %Octave.script  
 % Title               :El corral del granero
 % Description         :Encontrar la dimension del corral a construir
-% Author              :Fernando Jesús Paredes Martínez,Adrian Lovera Bombela
-% Date                :20213010,202123498
+% Author              :Fernando Jesús Paredes Martínez,Adrian Lovera Bombela, Andrea Mendoza Soto
+% Date                :20213010,202123498,202123084
 % Version             :1
 % Usage               :octave> /path/Actividad/Elcorraldelgranjero
 
